@@ -1,5 +1,11 @@
 # mui
 
+## 开发注意事项
+[提升HTML5的性能体验系列之一 避免切页白屏](http://ask.dcloud.net.cn/article/25
+
+[5+动画详解](http://ask.dcloud.net.cn/article/225)
+
+
 ### 下拉刷新结束
 
 ```javascript
