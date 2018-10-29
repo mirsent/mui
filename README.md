@@ -2,7 +2,7 @@
 
 ### 下拉刷新结束
 
-```
+```javascript
 function pullfresh-function() {
      //业务逻辑代码，比如通过ajax从服务器获取新数据；
      ......
